@@ -1,2 +1,2 @@
-# managerstudent
-一个node.js的后台管理系统
+# studentManager_19
+管理系统
